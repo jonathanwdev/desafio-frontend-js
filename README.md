@@ -4,6 +4,11 @@ Seja bem-vindo!
 
 Apreciamos seu interesse em participar deste processo e por encarar nosso desafio.
 
+<h4>Tempo estimado para concluir o desafio:</h4>
+<strong>- Entender as tecnologias propostas e desenvolver a web: 1 dia</strong><br />
+<strong>- Aplicar o design responsivo e solucionar possiveis bugs: 1 dia</strong><br />
+
+
 # Quem somos
 
 Nós na MOBRJ Software somos apaixonados por desafios de software. O nosso trabalho é focado em desenvolvimento de soluções integradas. Sejam elas web, mobile ou simplesmente backend. Atualmente utilizamos as linguagens Javascript e C#, onde possuímos times específicos para cada stack.
